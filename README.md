@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="#-explicação">Explicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-código">Código</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 # 🧮 Sistema de Armários IFCE
 Imagine que você foi contratado para desenvolver um sistema para gerenciar os armários de alunos de uma universidade. 
 
@@ -6,8 +12,11 @@ Inicialmente, você terá que fazer uma prova de conceito para 8 armários. Devi
 Dessa forma, para cada armário você irá associar um bit, sendo 0 para disponível e 1 para ocupado. 
 Você deverá usar uma UNICA variável do tipo char sem sinal para controle. 
 
-O sistema funcionar ́a da seguinte forma: Inicialmente, você deve exibir um menu para o usuário com
-as seguintes opções:
+## 📝 Explicação: 
+
+O sistema funcionará da seguinte forma:
+
+Inicialmente, você deve exibir um menu para o usuário com as seguintes opções:
 1. Ocupar armário
 2. Liberar armário
 3. Sair
